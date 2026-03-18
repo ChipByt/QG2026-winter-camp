@@ -1,3 +1,4 @@
 # 忽略 Jupyter Notebook 的检查点文件和文件夹
 .ipynb_checkpoints/
 *-checkpoint.ipynb
+code/housing.csv
